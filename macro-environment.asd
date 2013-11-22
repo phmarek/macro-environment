@@ -10,5 +10,6 @@
                              (:file "macro")
                              (:file "declarations")
                              #+sbcl (:file "sbcl")
+                             (:file "common")
                              ))))
 
